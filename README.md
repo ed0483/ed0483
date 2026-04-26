@@ -18,4 +18,4 @@ I recently built a digital twin of the 2009 robot-auction game **Fzzzt!**.
 ---
 
 ### 📫 Connect with me:
-[LinkedIn]([(https://www.linkedin.com/in/yu-liang-ang-918079360/)]) | [yuliang213@gmail.com](mailto:yuliang213@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yu-liang-ang-918079360/) | [yuliang213@gmail.com](mailto:yuliang213@gmail.com)
