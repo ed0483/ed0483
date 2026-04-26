@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yu Liang Ang 
 
 ### 🚀 Software Engineering Student @ University of Waikato
-I am a passionate builder focused on creating type-safe, high-performance web applications. I enjoy digitizing complex systems—from physics simulations to tabletop game engines.
+I am a passionate builder focused on creating type-safe, high-performance web applications. I enjoy digitising complex systems—from physics simulations to tabletop game engines.
 
 - 🛠️ **Tech Stack:** React 19, TypeScript, Tailwind CSS v4, Framer Motion.
 - 🎓 **Education:** Bachelor of Engineering (Honours) in Software Engineering.
@@ -18,4 +18,4 @@ I recently built a digital twin of the 2009 robot-auction game **Fzzzt!**.
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/yu-liang-ang-918079360) | [yuliang213@gmail.com](mailto:yuliang213@gmail.com)
+[LinkedIn]([(https://www.linkedin.com/in/yu-liang-ang-918079360/)]) | [yuliang213@gmail.com](mailto:yuliang213@gmail.com)
