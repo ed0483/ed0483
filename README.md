@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Yu Liang Ang 
 
-<!--
-**ed0483/ed0483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineering Student @ University of Waikato
+I am a passionate builder focused on creating type-safe, high-performance web applications. I enjoy digitizing complex systems—from physics simulations to tabletop game engines.
 
-Here are some ideas to get you started:
+- 🛠️ **Tech Stack:** React 19, TypeScript, Tailwind CSS v4, Framer Motion.
+- 🎓 **Education:** Bachelor of Engineering (Honours) in Software Engineering.
+- 🔭 **Latest Project:** [Fzzzt! Digital Game Engine](https://fzzzt-web.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🕹️ Featured Project: Fzzzt! Pro
+I recently built a digital twin of the 2009 robot-auction game **Fzzzt!**. 
+- **The Challenge:** Managing a two-phase game loop with hidden states and real-time bidding logic.
+- **The Tech:** Engineered with a custom Heuristic Advisory system using React and TypeScript.
+- **Check it out:** [Live Demo](https://fzzzt-web.vercel.app) | [Source Code](https://github.com/ed0483/fzzzt-web-engine)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [yuliang213@gmail.com](mailto:yuliang213@gmail.com)
